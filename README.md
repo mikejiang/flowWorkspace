@@ -1,8 +1,8 @@
 # <img src="logo_mid.png" align="right" />
 
-[![Build Status](https://travis-ci.org/RGLab/flowWorkspace.png?branch=master)](https://travis-ci.org/RGLab/flowWorkspace)
 
 # flowWorkspace: An infrastructure tool for the hierarchical gated flow cytometry data.     
+[![build](https://github.com/mikejiang/flowWorkspace/workflows/R/badge.svg?branch=r-4.0)](https://github.com/mikejiang/flowWorkspace/actions)
 
 This package is designed to store, query and visualize the hierarchical gated flow data.
 
